@@ -1,0 +1,30 @@
+dinh 1: 2 3 
+dinh 2: 1 3 4 
+dinh 3: 1 2 4 
+dinh 4: 2 3 5 
+dinh 5: 4 
+duyet dinh 1 debug dfs: 1 -1 0
+debug dfs: 2 1 1
+debug dfs: 3 2 2
+debug dfs: 1 3 3
+cycle true 3
+cycle 3
+cycle 3
+cycle 3
+1 3
+duyet dinh 2 debug dfs: 2 -1 0
+cycle true 0
+1 0
+duyet dinh 3 debug dfs: 3 -1 0
+cycle true 0
+1 0
+duyet dinh 4 debug dfs: 4 -1 0
+debug dfs: 2 4 1
+cycle false 1
+debug dfs: 3 4 1
+cycle false 1
+debug dfs: 5 4 1
+0 -1
+duyet dinh 5 debug dfs: 5 -1 0
+cycle true 0
+1 0

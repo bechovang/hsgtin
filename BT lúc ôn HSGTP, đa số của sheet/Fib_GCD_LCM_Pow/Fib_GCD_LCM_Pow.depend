@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1691976194 source:c:\users\bechovang\desktop\codeblock\fib_gcd_lcm_pow\main.cpp
+	<set>
+	<map>
+	<list>
+	<iomanip>
+	<cmath>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<complex>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

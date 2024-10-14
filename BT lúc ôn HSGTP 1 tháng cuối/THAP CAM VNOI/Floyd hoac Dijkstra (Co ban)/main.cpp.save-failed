@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+#define endl '\n'
+#define faster ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+//#define int long long
+using namespace std;
+
+int dinh, canh, q;
+vector<vector<pair<int,int>>> v;
+
+
+signed main()
+{
+    faster;
+    freopen("input.inp","r",stdin);
+    freopen("output.out","w",stdout);
+    cin>>dinh>>canh>>q;
+    v.resize(dinh+1);
+    for (int i=0;i<n;i++){
+        int x,y,z; cin>>x>>y>>z;
+        v[x].push_back({y,z});
+        v[y].push_back({x,z});
+    }
+
+
+    return 0;
+}

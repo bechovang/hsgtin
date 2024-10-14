@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708768103 source:c:\users\windows 8.1\dropbox\contest da lam\co chau\truong chuyen hung vuong\count\main.cpp
+	<iostream>
+	<vector>
+
+1708873488 source:c:\users\bechovang\dropbox\contest da lam\co chau\truong chuyen hung vuong\count\main.cpp
+	<iostream>
+	<fstream>
+

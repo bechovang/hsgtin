@@ -1,0 +1,12 @@
+﻿lưu vào vector => sort
+
+tìm số gần hiệu nhất nhưng ko lớn hơn
+dpt 20*1e5
+
+
+
+** cach de quy
+dung cac to tien
+de quy ra cac so tien co the tao
+
+sau đó dùng bs để kt cso tshe tao ko
